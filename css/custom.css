@@ -1,0 +1,45 @@
+
+
+header {
+  background-color: lightblue;
+  text-align: center;
+  padding: 10% 0 10%;
+  margin-top: 3%;
+  box-shadow: 10px 10px 5% grey;
+
+}
+
+.header {
+  padding: 3% 0 3%;
+  background: lightgrey url("/images/paisley.png") repeat left top;
+  /*box-shadow: 0px 3px 8px -1px rgba(117, 117, 117, 1);*/
+  border-top: 1px solid #FF3C11;
+  border-bottom: 1px solid #FF3C11;
+}
+
+
+section {
+  margin-top: 10%;
+  text-align: center;
+}
+
+span {
+  color: #FF3C11
+}
+
+ul {
+  list-style: none;
+  margin-top: 30%;
+  padding: 0;
+}
+
+li a {
+  display: block;
+  padding: 8px 0 8px 5%;
+  text-decoration: none;
+  margin-right;
+}
+
+#content {
+  padding: 2% 0 2%;
+}
