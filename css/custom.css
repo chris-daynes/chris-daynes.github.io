@@ -43,3 +43,15 @@ li a {
 #content {
   padding: 2% 0 2%;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.photos {
+  text-align: center;
+  padding: 2%;
+  margin-bottom: 5%;
+  border: 0.1em solid #FF3C11;
+}
